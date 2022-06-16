@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1124b3b1.css",
+    "main.js": "/static/js/main.a18850d0.js",
+    "static/media/rickMLetras.jpg": "/static/media/rickMLetras.51182fcbd14c77057cd9.jpg",
+    "static/media/temporada1.jpg": "/static/media/temporada1.4713a251307ea00a1a90.jpg",
+    "static/media/temporada2.jpg": "/static/media/temporada2.a2d8d65db748cbaca226.jpg",
+    "static/media/temporada4.jpg": "/static/media/temporada4.06019417fd1d1b9ca5ae.jpg",
+    "static/media/rickM.jpg": "/static/media/rickM.bcfe2088487d6c67149e.jpg",
+    "static/media/temporada3.png": "/static/media/temporada3.c4bffd0eafd8e42dd8bf.png",
+    "static/media/temporada5.jpg": "/static/media/temporada5.3cf78e66354214833b27.jpg",
+    "static/media/rickandmortyapi.jpg": "/static/media/rickandmortyapi.dec1741dafa45d6bcff2.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/lupa-icon.svg": "/static/media/lupa-icon.04dd06aa676ca40b1bdd48faf827e609.svg",
+    "index.html": "/index.html",
+    "main.1124b3b1.css.map": "/static/css/main.1124b3b1.css.map",
+    "main.a18850d0.js.map": "/static/js/main.a18850d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1124b3b1.css",
+    "static/js/main.a18850d0.js"
+  ]
+}
